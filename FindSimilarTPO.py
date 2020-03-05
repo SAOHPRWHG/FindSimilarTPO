@@ -41,7 +41,7 @@ parser.add_argument(
     type=int,
 )
 
-#argv = parser.parse_args('-f C2-1.txt -n 10 -t 54'.split())
+argv = parser.parse_args()
 #print(argv)
 
 find_file = argv.filename
