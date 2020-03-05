@@ -1,0 +1,44 @@
+Professor: Today, I want to talk about a paradox the ties in with the topic we discuss last time. We were discussing the geological evidence of water, liquid water on Earth and Mars three to four billion years ago. So, what evidence of a liquid water environment did we find in rock samples taking from the oldest rocks on Earth?
+
+Student: Eh… Like pebbles, fossilized algae?
+
+Professor: Right. And on Mars?
+
+Student: Dry channels?
+
+Professor: Good. All evidence of water in liquid form, large quantities of it. Now, remember when we talked about star formation, we said that as a star ages, it becomes brighter, right? Hydrogen turns into Helium, which releases energy. So our standard model of star formation suggests that the Sun wasn’t nearly as bright three to four billion years ago as it is today, which means the temperatures on Earth and Mars would have been lower, which in turn suggests…
+
+Student: There would have been ice on Earth or Mars?
+
+Professor: Correct. If the young Sun was much fainter and cooler than the Sun today, liquid water couldn’t have existed on either planet.
+
+Now, this apparent contradiction between geologic evidence and the stellar evolution model became known as the faint young Sun paradox.
+
+Now, there have been several attempts to solve this paradox.
+
+First, there was the greenhouse-gas solution. Well, you are probably familiar with the greenhouse gas effect, so I won’t go into details now. The idea was that trapped greenhouse gases in the atmospheres of Earth and Mars might have caused temperatures to raise enough to compensate for the low heat the young Sun provided. And so it would have been warm enough on these planets for liquid water to exist. So, what gas do you think was the first suspect in causing the greenhouse effect?
+
+Student: Um…carbon dioxide, I guess. Like today?
+
+Professor: In fact, studies indicate that four billion years ago, carbon dioxide levels in the atmosphere were much higher than today’s levels. But the studies also indicate that they weren’t high enough to do the job—make up for a faint Sun.
+
+Then some astronomers came up with the idea that atmospheric ammonia might have acted as a greenhouse gas. But ammonia would have been destroyed by the ultra-violet light coming from the Sun and it had to be ruled out too.
+
+Another solution, which is proposed much later, was that perhaps the young Sun wasn’t faint at all, perhaps it was bright. So it is called the bright-young-Sun solution, according to which the Sun would have provided enough heat for the water on Earth and Mars to be liquid. But how could the early Sun be brighter and hotter than predicted by the standard model? Well, the answer is mass.
+
+Student: You mean the Sun had more mass when it was young?
+
+Professor: Well, if the young Sun was more massive than today’s, it would have been hotter and brighter than the model predicts. But this would mean that it had lost mass over the course of four billion years.
+
+Student: Is that possible?
+
+Professor: Actually, the Sun is constantly losing mass through the solar wind, a stream of charged particles constantly blowing off the Sun. we know the Sun’s current rate of mass loss, but if we assume that this rate has been steady over the last four billion years, the young Sun wouldn’t have been massive enough to have warmed Earth, let alone Mars, not enough to have caused liquid water.
+
+Student: Maybe the solar wind was stronger then?
+
+Professor: There is evidence that the solar wind was more intense in the past. But we don’t know for sure how much mass our Sun’s lost over the last four billion years. Astronomers tried to estimate what solar mass could produce the required luminosity to explain liquid water on these planets. They also took into account that with a more massive young Sun, the planets would be closer to the Sun than they are today. And they found that about seven percent more mass would be required.
+
+Student: So the young Sun had seven percent more mass than our Sun?
+
+Professor: Well, we don’t know. According to observations of young Sun like stars, our Sun may have lost as much as six percent of its initial mass, which doesn’t quite make it. On the other hand, this estimate is based on a small sample. And the bright-young-Sun solution is appealing. We simply need more data to determine the mass loss rate of stars. So there’s reason to believe that we will get an answer to that piece of the puzzle one day. 
+

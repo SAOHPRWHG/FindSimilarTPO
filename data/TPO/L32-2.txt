@@ -1,0 +1,73 @@
+Professor, since we’re going to talk about changes in animal populations in the wild, I’d like to ask about something I read in an article online … about how the population size of some animal species can affect other animal species … and how other environmental factors come into play, too.
+
+FEMALE PROFESSOR
+
+Right, relationships between animal species in a given ecosystem can get pretty complex. Because in addition to predator-prey relationships, there’re other variables that affect population size.
+
+MALE STUDENT
+
+The article mentioned that populations of predators and their prey might go up rapidly and then decline all of a sudden.
+
+FEMALE STUDENT
+
+Oh, yeah, I read about that in my ecology class. It happens in cycles. I think that’s called a boom-and-bust cycle, right?
+
+FEMALE PROFESSOR
+
+Ok,  well … hold on a second. First, I want to go over some key concepts—let’s say there was a species that had access to plenty of food and ideal conditions—under those circumstances its population would increase exponentially, meaning it would increase at an ever-accelerating pace.
+
+MALE STUDENT
+
+Wow—that sounds a little scary.
+
+FEMALE PROFESSOR
+
+Well, it doesn’t usually happen. Like you said, a rapid population growth is often followed by a sudden decline. But we do occasionally see exponential growth in nonnative species when they are transplanted into a new environment—um, because they face little competition and have favorable growing conditions. But for most species, most of the time, resources are finite—there’s only so much available—which leads me to my point …. Every ecosystem has what’s called a carrying capacity.
+
+The carrying capacity is the maximum population size of a species that can be sustained by the resources of a particular ecosystem …. Resources are, of course, food, water, and—just as important—space.
+
+Although every species has a maximum rate at which the population of that species could increase … assuming ideal conditions for the species in its environment … there’re always going to be environmental factors that limit population growth. This is called environmental resistance.
+
+Environmental resistance is important because it stops populations from growing out of control. Factors such as food supply, predation, and disease affect population size and can change from year to year, or season to season.
+
+MALE STUDENT
+
+OK, I think I get it.
+
+FEMALE PROFESSOR
+
+Well, let’s look at a case study—that should make things clear. Some years ago, some of my colleagues conducted an experiment in an oak forest involving three different species: white-footed mice, gypsy moths, and oak trees.
+
+OK, uh, now let me explain what the situation is in this forest. Oak trees produce acorns and acorns are a primary food source for white-footed mice. Another food source for the white-footed mice is the gypsy moth. So the size of the gypsy moth population is controlled by the white-footed mice, which is a good thing because gypsy moth caterpillars are considered pests. They strip away the leaves from the oak trees every ten years or so.
+
+MALE STUDENT
+
+So the mice eat both acorns from the oak trees and gypsy moths … and the gypsy moth caterpillars eat oak tree leaves.
+
+FEMALE PROFESSOR
+
+Right. Now what makes this set of relationships particularly interesting is that oak trees only produce a large number of acorns once every few years.
+
+MALE STUDENT
+
+So during the years with fewer acorns, the white-footed mice have to deal with a smaller food supply.
+
+FEMALE PROFESSOR
+
+Yes. But in the years with large amounts of acorns … the mice have more food which leads to—
+
+MALE STUDENT
+
+The white-footed mouse population growing—
+
+FEMALE PROFESSOR
+
+And the gypsy moth population decreasing.
+
+MALE STUDENT
+
+How can we know that for sure? It seems like a big jump from more acorns to fewer gypsy moths.
+
+FEMALE PROFESSOR
+
+Well, we can know for sure because in this oak forest, the researchers decided to test the links between acorns and the two animals species. In some parts of the forest, they had volunteers drop a large number of extra acorns on the forest floor. And in another section of the forest, they removed a number of white-footed mice. In the forest areas where extra acorns had been dropped, the gypsy moth population soon went into a significant decline. But in the section of the forest where the white-footed mice had been removed, the gypsy moth population exploded.

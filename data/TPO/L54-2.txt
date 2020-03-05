@@ -1,0 +1,50 @@
+Professor: A popular misconception about archaeology, some people imagine we just go out into the field with a shovel and start digging, hoping to find something significant.
+
+Well, while there is an element of luck involved, we have an array of high-tech tools to help us figure out where to concentrate our efforts.
+
+One of the newer tools actually relies on particle physics, talk about inter-disciplinary.
+
+Here is a machine that brings together two very different sciences. This machine is called a muon detector.
+
+Muons are subatomic particles that result from cosmic rays.
+
+OK, let me start over. Cosmic rays aren't actually rays. They are basically protons zipping through outer space at close to light speed. And, when they collide with the atoms in earth's atmosphere, they break up into smaller particles -- muons.
+
+Now these muons are still highly energized, so they can easily pass on down to the earth's surface. In fact, they can pass through solid matter, so they can also penetrate deep into the surface. And it's this property of muons that archaeologists are taking advantage of.
+
+Let me explain, with the right kind of equipment, scientists can use muons to create a kind of picture of the structures they are studying.
+
+Let's say we are studying a Mayan pyramid in central America. And we are interested in finding out if there are burial chambers or other rooms inside. Well, a muon detector will show a greater number of muons passing through the less dense areas inside the pyramid.
+
+Yes, Andrew?
+
+Andrew: Um…I'm not sure I get how this muon detector works exactly.
+
+Professor: Well, muons lose energy as they pass through dense material, like the stone walls of the Mayan pyramid. So more muons and more energetic muons will be passing through empty spaces. The muon detector can differentiate the areas where more muons are passing through -- the empty spaces, as well as where there are fewer muons, the walls and dense areas.
+
+These empty spaces will show up as darker, so we wind up with a kind of picture of the pyramid, and its internal structure.
+
+Andrew: A picture?
+
+Professor: Sort of like an X-ray image.
+
+Andrew: Ok, so if we see darker areas inside the pyramid, we assume it's an empty space with more muons.
+
+Professor: Exactly, with this technology, we can see what's inside the structure before we dig, so we know exactly where to explore and we can minimize the damage excavation can cause.
+
+Even a little damage could result in us losing vital information forever.
+
+Now, muon detectors have been around for some time, but they have been improved upon since archaeologists started using them.
+
+In 1967 a physicist placed a muon detector beneath the base of one of the Egyptian pyramids of Giza. And he was looking for burial chambers. Now it happened that the muon detector found none. But he did demonstrate that the technique worked.
+
+Unfortunately the machine he used was so big that many archaeologists doubted muon detection could be practical. How could they get a massive piece of equipment into, say, the jungle of Belize?
+
+Then there was the issue of range.
+
+The machine used in 1967 could only scan for muons directly above it, not from the sides. So it actually had to be put underneath the pyramid, so it could look up. That meant if you wanted to find out what was inside an ancient structure, you first had to bury the detector beneath it.
+
+There's been a lot of work on these machines since then. And these problems have been solved by and large. That's not to say the technology is perfect, it would be nice for example, to have a system that didn't take 6 months to produce an image. I suppose that's better than the year it took for the 1967 study to get results.
+
+But still...well, there is good reason to believe that with better equipment, we're going to see muon detectors used much more frequently. They are already being used in other areas of science, for example Japanese scientists studying the interiors of volcanoes, and there are plenty of archaeologists who would love to use this technology.
+

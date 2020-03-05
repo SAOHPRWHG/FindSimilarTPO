@@ -1,0 +1,107 @@
+NARRATOR
+
+Listen to a conversation between a student and a professor.
+
+MALE STUDENT
+
+Hi Professor Atkins, you wanted to see me?
+
+FEMALE PROFESSOR
+
+Hi Bill, thanks for coming. I wanted to talk to you about... 
+
+MALE STUDENT
+
+[interrupting]... Is there... is there something wrong with my research paper?
+
+FEMALE PROFESSOR
+
+No, not at all. In fact, it’s very good. That’s why I wanted to talk to you.
+
+MALE STUDENT
+
+Oh... thanks.
+
+FEMALE PROFESSOR
+
+I think you know the department is looking to hire a new professor. Are you familiar with our hiring process?
+
+MALE STUDENT
+
+[confused] No... but... what’s that gotta do with me? 
+
+FEMALE PROFESSOR
+
+Well, Bill... we have several qualified applicants we’re serious about. And as part of the interview process, we have them meet with a committee of professors and students in our department. They also have to give a talk.
+
+MALE STUDENT
+
+Do you mean... like a lecture?
+
+FEMALE PROFESSOR
+
+Yes. Like a sample lecture on one of their academic interests.
+
+MALE STUDENT
+
+Oh,... so you can see their teaching style?
+
+FEMALE PROFESSOR
+
+Exactly.
+
+MALE STUDENT
+
+Uh huh, makes sense.
+
+FEMALE PROFESSOR
+
+So I’d like to know if you’d be willing to join as a student representative on the interview committee. It’d be a good experience for you. You could... uh... put it on your résumé.
+
+MALE STUDENT
+
+Oh! That’d look good for my grad school application, I guess. So what do I have to do?
+
+FEMALE PROFESSOR
+
+The department secretary will give you a schedule of the applicants’ visits. If you’re free, we’d like you to attend their talks, and then later you can give us your opinion. Oh, and, we usually serve lunch or snacks, depending on what time the talk is.
+
+MALE STUDENT
+
+Cool! That’s another good reason to do this. Um... when is the next talk?
+
+FEMALE PROFESSOR
+
+We actually haven’t had any yet. The first one is next Friday at 10:00 A.M. Then lunch and informal discussion with the applicant right after.
+
+MALE STUDENT
+
+Oh, well I’m free on Fridays. If all the talks are on Fridays, I’ll be able to make it to all of them.
+
+FEMALE PROFESSOR
+
+That’s great! [shift in tone at this point to a more serious one] Now you should know that this job candidate is interested in the life cycles in the forest... 
+
+MALE STUDENT
+
+[interrupting excitedly] That’s...that’s what my research is about! 
+
+FEMALE PROFESSOR
+
+Yes, I know. That’s why I feel it necessary to point out that even though this applicant’s research interests are similar to yours, we want you to tell us what you think about the teaching of all these applicants. Your perspective as a student -- how the applicant teaches in the classroom -- that’s what’s important to us.
+
+MALE STUDENT
+
+I understand. So, how many applicants are there?
+
+FEMALE PROFESSOR
+
+Let’s see... we have... four -- all very good candidates that we’ll be looking at over the next few weeks. It’s going to be a tough decision. But it’ll be a good experience for you -- especially if you’re going to grad school.
+
+MALE STUDENT
+
+Thank you! It’ll be cool to do this. I’ll get a copy of the schedule from the secretary on my way out.
+
+FEMALE PROFESSOR
+
+You’re welcome! See ya in class this afternoon.

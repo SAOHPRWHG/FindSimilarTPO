@@ -6,15 +6,16 @@ Created on Mon Mar  2 10:36:44 2020
 """
 #寻找最相似的X篇TPO文章
 #输入参数
-find_file = '1-3.txt' #要找的文档内容
+find_file = '1-1.txt' #要找的文档内容
 sim_num = 10 #要显示的最相似的数目
+TPO_num = 54 #目前可访问的TPO数目，如增加到64则改为64
 
 from gensim import corpora,models,similarities
 import jieba
 from collections import defaultdict
 import heapq
 
-TPO_num = 54 #目前可访问的TPO数目，如增加到64则改为64
+
 lib = []
 
 for i in range(1,TPO_num+1):
@@ -29,6 +30,28 @@ for i in range(1,TPO_num+1):
         for item in data:
             data_+=item+' '
         lib.append(data_)
+    for j in range(1,5):
+        file_name = 'L' + str(i)+'-'+str(j)+'.txt'
+        doc = './data/TPO/'
+        doc += file_name
+        d = open(doc, encoding='utf-8').read()
+        data = jieba.cut(d)
+        data_ = ''
+        for item in data:
+            data_+=item+' '
+        lib.append(data_)
+    for j in range(1,3):
+        file_name = 'C' + str(i)+'-'+str(j)+'.txt'
+        doc = './data/TPO/'
+        doc += file_name
+        d = open(doc, encoding='utf-8').read()
+        data = jieba.cut(d)
+        data_ = ''
+        for item in data:
+            data_+=item+' '
+        lib.append(data_)
+
+
 
 #存储文档到列表
 #documents=[data11,data21]
@@ -69,16 +92,33 @@ featureNUm=len(dictionary.token2id.keys())#得到特征数
 index=similarities.SparseMatrixSimilarity(ifidf[corpus],num_features=featureNUm)
 sim=index[ifidf[new_vec]]
 
-d = {}
+r = {}
+l = {}
 for i in range(1,TPO_num+1):
     for j in range(1,4): 
         file_name = str(i)+'-'+str(j)+'.txt'
-        ind = (i-1)*3 + j
-        d[file_name] = sim[ind-1]*100
-                
+        ind = (i-1)*9 + j
+        r[file_name] = sim[ind-1]*100
+    for j in range(1,5): 
+        file_name = 'L' + str(i)+'-'+str(j)+'.txt'
+        ind = (i-1)*9 + 3 + j
+        l[file_name] = sim[ind-1]*100 
+    for j in range(1,3): 
+        file_name = 'C' + str(i)+'-'+str(j)+'.txt'
+        ind = (i-1)*9 + 7 + j
+        l[file_name] = sim[ind-1]*100              
+        
 #sim_num = 10
-output = heapq.nlargest(sim_num, d, key = d.get)
+outputR = heapq.nlargest(sim_num, r, key = r.get)
+outputL = heapq.nlargest(sim_num, l, key = l.get)
 #print(output)
-for i in range(len(output)):
-    print(i,'\t', output[i],':\t',d[output[i]])
+print('Reading:')
+print('Rank\tName\t\tSimilarity')
+for i in range(len(outputR)):
+    print(i,'\t', outputR[i],':\t',r[outputR[i]])
+    
+print('\nListening:')
+print('Rank\tName\t\tSimilarity')
+for i in range(len(outputL)):
+    print(i,'\t', outputL[i],':\t',l[outputL[i]])
 

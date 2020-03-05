@@ -1,0 +1,22 @@
+Before we continue talking about the properties of individual galaxies, it’s worth talking about the distribution of galaxies in space. Efforts had mapping or surveying the Universe eh...making a sort of albums of galaxies have been going on for more than fifty years. And the... the creators of the first major map of the universe were the astronomers Harlow Shapley, and Adelaide Ames. In 1932, Shapley and Ames cataloged the decisions of 1,250 galaxies by photographing what they saw through the telescopes, and...
+
+They made an important discovery. Their survey was the first to indicate that galaxies were not distributed uniformly in space. Some areas have a lot of galaxies, and other areas have...just a few. Eh, another way of putting this...is to say if galaxies are clustered, they are not spread evenly throughout the Universe. So, we have started screw together in galaxies, and galaxies grouped together in clusters, OK? Now, eh, after their survey, other astronomers completed surveys that added to the number of clusters catalogue. One of the most important was done by the astronomer George Abell. Abell completed his survey in 1958. It added considerably to the map made by Shapley and Ames. In fact, his map had over 2,700 clusters of galaxies. That's, 2,700 clusters of galaxies, not just galaxies. But, there's another aspect of Abell's worth. It made this map so valuable to astronomers. He introduced a classification scheme for the galaxy clusters. Now, surveys completed since Abell's catalogues additional galaxies and survey more outer space. But, no one has improved upon Abell's classification scheme. In fact, the Abell Catalogue is used as a starting point for astronomers who study these objects.
+
+One of the reasons his scheme is so widely accepted is because of his sample size. With all the clusters in his sample, he can determine the different characteristics of clusters, and these characteristics form the basis of his classification scheme. Now, two of the characteristics crucial to his classification were richness and symmetry. So, eh...what are the mean by richness?
+
+Stu 1: Well, basically, it prefers to the number of galaxies there are within a cluster.
+
+Stu 2: Is that the same as density?
+
+Pro: That's right. Both richness and density refer to the number per area. Rich clusters or dense clusters...uh, contain a relatively high number of galaxies.
+
+Stu 2: And symmetry just refers to its shape?
+
+Pro: En...roughly speaking, yes. Uh, whether the shape of cluster was the same on the left side is on the right side. So, Abell used categories like that to classify clusters on a scale, from regular to irregular. A regular cluster is sphere shape, symmetrical and most dense in the middle, uh... the greatest number of galaxies concentrate in the middle of the cluster. And irregular cluster might appeal to be lopsided, asymmetrical, with a low concentration of galaxies in the center.
+
+Stu 2: You're talking about the shape of cluster, though, not the shape of galaxies within the cluster. rPo: Right. Uh, for example, let's consider the Coma cluster. It's a symmetrical cluster, basically spherical in shape. But, the individual galaxies within it are elliptical. They are not spherical or spiral shape, but the cluster itself shows spherical symmetry. Uh... the Virgo cluster on the other hand is considered irregular. There's not symmetry within its overall shape, no center concentration galaxies, but it happens they have both elliptical and spiral galaxies within it.
+
+Stu 2: Another question. You're saying how some clusters have more galaxies than others? How many galaxies does a cluster have to have in order to even be a cluster?
+
+Pro: Good question. Abell's definition of a cluster is this: first, there have to be more than 50 galaxies within a specific amount of space. He said basically than clusters have a radius of roughly 2 mega parsecs. And it was just an assumption that all clusters be about the same size. It's remarkable that it's proved to be correct. And this standard cluster radius is known today as the Abell Radius. And second, those 50 plus galaxies have to be a certain brightness. Of course it's a rough estimate, but looking at galaxies' brightness was a good way to distinguish between clusters that were nearby and those were more distant.
+

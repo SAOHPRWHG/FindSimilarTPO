@@ -1,0 +1,24 @@
+MALE PROFESSOR
+
+OK. Last time we finished going over some of the fundamental concepts of nanotechnology—the multidisciplinary science of manipulating—or controlling—extremely small units of matter, on the scale of molecules or even atoms.
+
+So, I want to talk about how nanotechnology is being used today, and, just to give you an idea, we’ll look at one particular application. A team of materials scientists in Massachusetts has been working on a new, ultrathin coating, a nanocoating that might be applied to objects like bathroom mirrors, car windows, and eyeglasses to prevent fogging.
+
+And the coating has the potential to be a permanent solution, unlike the kinds of anti-fogging, spray-on liquids that are on the market today...
+
+Now, fogging often occurs when a cold surface comes into contact with warm, moist air, such as when a glass shower door or mirror fogs up during a warm shower.… Now, what’s actually happening is, uh, what the fog is, is thousands of tiny spherical water droplets condensing on the surface of the glass. Light hits the water droplets and is scattered in random directions, causing the fogging effect.
+
+Now, the kind of spray-on treatments I mentioned, well, they wear off. What happens is they cause the tiny water droplets to flatten when they condense on the surface of the shower door, or bathroom mirror, or whatever object it is that it’s been applied to. Because the droplets are flattened, when light hits them, the light doesn’t scatter. But as I said, those kinds of treatments don’t last very long.
+
+The new coating has two important components. One: [say “negatively charged” as a unit]negatively charged silica nanoparticles—these are basically tiny particles of glass. And two: a positively charged polymer—which, you already know, a polymer is a chemical compound. These’re layered over each other…the polymer, then the silica nanoparticles, the polymer, then the silica nanoparticles, you see. They’re layered in such a way that the silica nanoparticles don’t pack together tightly. In other words, the structure has pores, or holes, little tiny pockets, throughout it. The coating prevents fog from developing because it loves water. It attracts the water droplets—sucking them into the tiny pores. And that alters the shape of the droplets; the droplets are forced to flatten and to join together into a single sheet of water, rather than remaining as single droplets—each of which is a sphere that scatters light in different directions. OK, so instead of being scattered, the light passes through the thin sheet of water. So there’s no fogging effect.
+
+The ultrathin coating can be made more durable by heating it—and of course the object it’s applied to—to an extremely hot temperature—500 degrees Celsius. What that does is burn the polymer away and fuse the silica nanoparticles together—while maintaining the structure of pores. But that’s possible only on materials that can withstand high heat. Glass, yes. Plastics, no. But they’re working on solving that problem; trying to come up with a way to coat plastics and other materials durably and effectively.
+
+Interestingly, it was a plant—the lotus plant—that inspired this work, I guess you could say inspired it in an indirect sort of way. The leaves of this plant are what we call “superhydrophobic.”
+
+Lotus leaves, being superhydrophobic, don’t attract water—they repel it—in a big way. When raindrops fall on lotus leaves, they remain spherical. They roll right off. So for a long time the Massachusetts scientists tried to create a coating that acted like these lotus leaves—a coating that was superhydrophobic.
+
+But then they began to think about the opposite extreme. Uh, could they accomplish their goal by making a coating that, instead of repelling water, actually attracted water?
+
+Well, they seem to have gotten quite far with this approach. It’s really strong work with a range of interesting consumer applications. It’s not costly to manufacture the coating. Some car makers are interested in applying it to their windshields. Looks like we’ll probably see it on the markets in everyday products in the next few years.
+

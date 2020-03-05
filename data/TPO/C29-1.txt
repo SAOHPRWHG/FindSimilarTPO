@@ -1,0 +1,91 @@
+MALE EMPLOYEE
+
+[cheerfully] Morning. How can I help you?
+
+FEMALE STUDENT
+
+Well, I’m kinda confused about my schedule. I-I printed it out this morning, but one of the classes I registered for is missing.
+
+MALE EMPLOYEE
+
+OK, let’s see if we can figure this out. What’s your name?
+
+FEMALE STUDENT
+
+Lisa Johnson.
+
+MALE EMPLOYEE
+
+All right. I’m bringing up your schedule on the computer. [pause] Hmm … It looks like you’re registered for Introduction to Astronomy, Survey of American Literature, and Introduction to Government and Politics. Is that right?
+
+FEMALE STUDENT
+
+Well, yes, but I also registered for a language class … Level 1 Japanese. [wondering] Did they, I dunno, maybe cancel it?
+
+MALE EMPLOYEE
+
+I doubt it… The Japanese classes are quite popular … But let’s take a look at the list of Japanese classes being offered this semester just to make sure. Um, what section did you register for?
+
+FEMALE STUDENT
+
+I-I don’t remember the section number, but it’s the one that meets at 11.
+
+MALE EMPLOYEE
+
+Ah, that would be section 5. [pause] Well, according to this, the class is completely full. Are you sure you, uh … you registered online, right?
+
+FEMALE STUDENT
+
+Yeah.
+
+MALE EMPLOYEE
+
+Did you get a confirmation message?
+
+FEMALE STUDENT
+
+What do you mean?
+
+MALE EMPLOYEE
+
+Well, once you’ve successfully registered for a class, the computer gives you a message saying you’re in.
+
+FEMALE STUDENT
+
+Oh, you mean that message at the bottom of the screen that says “You are now registered for this class”? Actually, I didn’t get that message. I got one that said “Instructor’s signature required.” I thought I just needed to get the professor’s signature on the first day of class.
+
+MALE EMPLOYEE
+
+Well you do, but the professor might not sign it. It depends on how full the class is and how many additional students the professor is willing to let in.
+
+FEMALE STUDENT
+
+[sighs] So that means I’m not registered for the class. Not unless the professor signs me in. What, um, what should I do now?
+
+MALE EMPLOYEE
+
+Let me give you the form the professor needs to sign. Uh, go to the class on the first day—get there early so you can talk to the professor before class starts. Find out if he or she is willing to let you in. If so, bring the signed form back here and we’ll register you for the class. If not … well, you’ll have to find a different class. I’d start looking for alternatives now, just in case.
+
+FEMALE STUDENT
+
+What do you think my chances are of getting into this class?
+
+MALE EMPLOYEE
+
+Students often add and drop classes once the semester begins, so there’s a real chance a seat will open up. But, of course, there are no guarantees.
+
+FEMALE STUDENT
+
+It’s just that I need a language class to graduate, and that’s the only Japanese class that fits my schedule.
+
+MALE EMPLOYEE
+
+Yes, but according to our records, you’re only in your first year here. If you can’t take the class this semester, you’ve still got time.
+
+FEMALE STUDENT
+
+[resignedly] I know. I was just hoping to take care of my requirements earlier rather than later.
+
+MALE EMPLOYEE
+
+[sympathetically] I understand. I just wanted to make sure you knew you had options.

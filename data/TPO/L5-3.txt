@@ -1,0 +1,28 @@
+OK, I know you all have a lot of questions about this lab assignment that’s coming up, so I’m gonna take a little time this morning to discuss it.
+
+So you know the assignment has to do with spectroscopy, right? And your readings should help you get a good idea of what that’s all about. But let’s talk about spectroscopy a little now, just to cover the basics.
+
+
+
+What is spectroscopy? Well, the simplest definition I can give you is that spectroscopy is the study of the interaction between matter and light. Now visible light consists of different colors, or wavelengths, which together make up what’s called a spectrum—a band of colors, like you see in a rainbow. And all substances—all forms of matter—can be distinguished according to what wavelengths of light they absorb and which ones they reflect. It’s like—well, every element has what we’d call its own spectral signature; if we can read that signature, we can identify the element. And that’s exactly what spectroscopy does.
+
+
+
+Now laser spectroscopy, which is the focus of your assignment, works by measuring, very precisely, what parts of the spectrum are absorbed by different substances. And it has applications in a lot of different disciplines. And your assignment will be to choose a discipline that interests you and devise an experiment. For example, I’m gonna talk about art—I’m interested in art. And to me, it’s interesting how spectroscopy is used to analyze art.
+
+Let’s say a museum curator comes to you with a problem. She’s come across this painting that appears to be an original—say a Rembrandt—and she wants to acquire it for her museum. But she’s got a problem: She’s not absolutely certain it’s an original. So what do you do? How do you determine whether the painting’s authentic?
+
+OK, think about the scientific process. You’ve got a question: Is the painting a Rembrandt? So first, you’d need to make a list of characteristics the painting would have to have to be a Rembrandt. Then you have to discover whether the painting in question has those characteristics.
+
+So first of all, you’ll need to know the techniques Rembrandt used when he applied paint to canvas— his brushstrokes, how thickly he applied his paint—so you’d need to work with an art historian who has expert knowledge of Rembrandt’s style. You’d have to know when he created his paintings, um, what pigments he used—in other words, what ingredients he used to make different colors of paint. ’Cause the ingredients used in paints and binding agents—plus varnishes, finishes, what have you—have changed over time. Since you’re trying to verify if it’s a Rembrandt, the ingredients in the pigment would need to have been used during Rembrandt’s lifetime, in the seventeenth century. And that’s where chemistry comes in. You’ve got to find out what’s in those pigments—learn their composition. And that requires lab work—detective work, really—in a word, spectroscopy.
+
+So how do we use spectroscopy? Well, we put an infrared microscope—a spectroscope—on tiny, tiny bits of paint, and using ultraviolet light, we can see the spectral signature of each component part of the pigment. Then we compare these signatures with those of particular elements, like zinc or lead, to determine what the pigment was made of.
+
+So you can see why this type of analysis requires a knowledge of the history of pigments, right? How and when they were made. Say we determine a pigment was made with zinc, for example. We know the spectral signature of zinc, and it matches that of the paint sample. We also know that zinc wasn’t discovered until the eighteenth century. And since Rembrandt lived during the seventeenth century, we know he couldn’t’ve painted it.
+
+Now spectroscopy has a very distinct advantage over previous methods of analyzing artworks because it’s not invasive—you don’t have to remove big chips of paint to do your analysis, which is what other methods require. All you do is train the microscope on tiny flecks of paint and analyze them.
+
+
+
+Now, a word or two about restoration. Sometimes, original artworks appear questionable or inauthentic because they’ve had so many restorers add touch-up layers to cover up damage—damage from the paint having deteriorated over time. Well, spectroscopy can reveal the composition of those touch-up layers too, so we can find out when they were applied. Then, if we want to undo some bad restoration attempts, we can determine what kind of process we can use to remove them—to dissolve the paint and uncover the original.
+

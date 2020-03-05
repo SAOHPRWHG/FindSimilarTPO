@@ -1,0 +1,32 @@
+FEMALE PROFESSOR：OK, the conventions or assumptions that govern conversation—these may vary from one culture to another, but basically, for people to communicate, there’s, uh—they have to follow certain rules. Like, if I’m talking with you, and I start saying things that’re not true—if you can’t tell when I’m lying and when I’m telling the truth, well, we’re not going to have a very…satisfactory conversation, are we? Why? Because it violates one of the “Gricean maxims.”
+
+That’s a set of rules or maxims a philosopher named H. P. Grice came up with in the 1970s. One of these Gricean maxims is…well, I’ve already given you a hint.
+
+MALE STUDENT：Oh, you just can’t go around telling lies.
+
+FEMALE PROFESSOR：Right—or, as Grice put it, “Do not say what you believe to be false.” That’s one of Grice’s maxims of quality, as he called it. So that’s pretty obvious, but there’re others just as important. Like, ah, suppose you were to ask me what time it was, and I replied, “My sister just got married.” What would you think?
+
+MALE STUDENT：Uh, you’re not really answering my question!
+
+FEMALE PROFESSOR：No, I m not, am I? There’s no connection at all, which feels wrong because you generally expect to find one. So one important maxim is simply, “Be relevant.” And using this so-called maxim of relevance, we can infer things as well—or rather, the speaker can imply things and the listener can make inferences. For instance, suppose you say you’d really love to have a cup of coffee right now. And I say, “There’s a shop around the corner.” Now, what can you infer from what I said?
+
+MALE STUDENT：Well, that the shop sells coffee, for one thing.
+
+FEMALE PROFESSOR：Right! And that I believe it’s open now. Because if I weren’t implying those things, my response would not be relevant. It’d have no connection with what you said before. But according to the maxim, my response should be relevant to your statement, meaning we should assume some connection between the statement and the response. And this maxim of relevance is quite efficient to use; even if I don’t spell out all the details, you can still make some useful logical inferences, namely “the shop is open” and “it sells coffee.” If we actually had to explain all these details, conversations would move along pretty slowly, wouldn’t they?
+
+OK, then there’s the maxims of manner, including things like “Be clear” and “Avoid ambiguity.” And another, more interesting maxim is one of the so-called maxims of quantity—quantity of information, that is. It says to give as much information as is required in the situation. So suppose you ask me what I did yesterday and I say, “I went to the art museum.” You would likely infer that I saw some works of art. Suppose though that I did not go inside the museum, I just walked up to it, then left. Then I’ve violated the quantity maxim by not giving enough information. So you can see how important implications are to our ability to carry on a conversation.
+
+But there are times when people will violate these maxims on purpose. Let’s say a boss is asked to write a letter of recommendation for a former employee seeking an engineering job. The letter he writes is quite brief—something like, uh, Mr. X is polite and always dresses neatly. So what does this really mean?
+
+FEMALE STUDENT：Oh, I see. By not mentioning any important qualities related to the job, the boss is, like, implying that this is the best that can be said about Mr. X—that he’s really not qualified.
+
+FEMALE PROFESSOR：Exactly. It’s a written letter, not a conversation, but the principle’s the same. The boss is conveying a negative impression of Mr. X without actually saying anything negative about him. So, by violating the maxims, we, ah—it-it can be a way to be subtle or polite…or to convey humor, through sarcasm or irony.
+
+Sometimes, though, people will violate maxims for another purpose—to deceive. Now, can you imagine who might do such a thing?
+
+MALE STUDENT：Some politicians!
+
+FEMALE STUDENT：Or advertisers.
+
+FEMALE PROFESSOR：Right. Anyone who may see an advantage in implying certain things that are untrue…without explicitly saying something untrue. They think, “Hey, don’t blame us if our audience happens to draw inferences that’re simply not true.” So next time you see an advertisement saying some product “could be up to 20 percent more effective,” think of these maxims of quantity and relevance and ask yourself what inferences you’re being led to draw. Think: “More effective than what, exactly?” And why did they use those little phrases “could be” and “up to”? These claims give us a lot less information than they seem to.
+

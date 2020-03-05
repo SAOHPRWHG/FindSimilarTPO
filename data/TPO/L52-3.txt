@@ -1,0 +1,32 @@
+MALE PROFESSOR
+
+OK, so today we’re going to talk about the Arctic, ozone depletion, and… snowflakes. And it’s all related! Let’s start with snowflakes.
+
+Now, I find snowflakes fascinating. To even begin to understand them, you need to understand physics, chemistry, and mathematics. Even though there’s been a lot of research, there’s still actually a lot about snowflakes that we don’t understand yet—hard to believe, I know…
+
+Anyway, snowflakes have a particular form: there’s a six-sided center, with six branches or arms that radiate out from it. But how do they get that way? Well, you start with water vapor—you need a pretty humid atmosphere—and that water vapor condenses directly into ice, into an ice crystal. At this point it looks kind of like a thin dinner plate that, rather than being circular, is hexagonal, with six flat edges.
+
+It’s at this point in the process where we begin to see why each snowflake is unique. Imagine this dinner plate is floating around in the wind, right, and when it encounters water vapor, molecules from that vapor attach to each of the six sides. You begin to see the development of six arms or branches radiating out from the center plate. Each time the snowflake encounters water vapor, more molecules attach to it, leading to more and more complex structures—and, of course, each snowflake takes a unique route through the clouds, on its way down… and so the quantity of water vapor it goes through is gonna be unique for each one.
+
+
+
+Now, one important characteristic of snowflakes is that they have something called a quasi-liquid layer—the QLL.
+
+
+
+Our snowflake is an ice crystal, right? Well, we find a quasi-liquid layer on the surface of ice. It’s basically a thin layer of water that’s not completely frozen—and it exists at temperatures well below freezing, though the thickness varies at different temperatures. Now this quasi-liquid layer, it plays an important role in what we’re going to talk about next…—uh, [noticing a student has her hand up]… yes, Mary?
+
+
+
+FEMALE STUDENT
+
+How can liquid exist below freezing? Why doesn’t it freeze?
+
+MALE PROFESSOR
+
+Well… when water becomes ice, the molecules bond together and they get sort of, uh, locked into place. They can’t move around as much anymore. So each molecule is surrounded by other molecules, and they’re all locked together. But what about the exterior of the ice? There’s a layer of water molecules on the surface… they’re attached to molecules only on one side, so they’re a bit freer… they can move around a bit more. Think of a, think of a… brick wall. Uh, the bricks in the wall, they have other bricks above and below them, and they’re all locked against each other. But that top layer, it only has a layer below it. Now… this can only be taken so far… because of course, bricks don’t move at all—they’re not liquid. But if the bricks were water molecules, well, this top layer would be the quasi-liquid layer, and it wouldn’t be completely frozen. Does that make sense?
+
+So finally, we get to the connection between snowflakes and ozone. Ozone is a gas found in the atmosphere of Earth. Now, there’s the ozone found in the stratosphere, which is the layer of the atmosphere from 6 to 30 miles above the Earth. This is considered “good” ozone, which occurs naturally and helps block harmful radiation from the Sun. But there is also ground-level ozone. It’s exactly the same gas, but it’s found closer to the surface of the Earth. This ground-level ozone results from human activities, and at high concentrations it can be a pollutant.
+
+Now, snowflakes’ quasi-liquid layer plays an important role in some complex chemical reactions—we’re going to be looking at these in detail later today. But basically, these reactions cause certain chemicals to be released, and these chemicals reduce the amount of ground-level ozone. So… the more branches you have in an ice crystal, the more quasi-liquid layer there is. The more quasi-liquid layer, the more reactions… and the more chemicals that reduce ground level ozone. So you can see why this is such an important system to study and understand.
+

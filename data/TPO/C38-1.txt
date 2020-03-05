@@ -1,0 +1,87 @@
+FEMALE HOUSING EMPLOYEE
+
+Hi, can I help you?
+
+MALE STUDENT
+
+I hope so. Uh, I’m taking a class this summer, and I need to see about getting campus housing…
+
+FEMALE HOUSING EMPLOYEE
+
+Ooh, sorry… I’m afraid the deadline to apply for summer housing in the dormitories has already passed. I could help you look for something off campus…
+
+MALE STUDENT
+
+Well, see, I-I, uh, only found out yesterday I need to take this course. It wasn’t really my idea; I mean…I was gonna take it in the fall; it’s a course I need for my major, in cognitive science—Professor Wilson was supposed to teach it, but now…
+
+FEMALE HOUSING EMPLOYEE
+
+Oh, right; I heard he’s taking a last-minute leave of absence next year. I-I hope everything’s OK…?
+
+MALE STUDENT
+
+Oh, yeah—he’ll be in Botswana, helping develop the new cognitive science program at our sister university there. Anyway, I have to take the course this summer if I want to graduate on time… I’ve got a note from the dean approving the whole situation.
+
+FEMALE HOUSING EMPLOYEE
+
+Ah—well, in-in that case, I guess we’d better make an exception for you! Only problem is, most of the better rooms are gone already… Was there any particular dorm you were interested in?
+
+MALE STUDENT
+
+Well, I’m in Randall Hall right now, but my roommate’s graduating in May, so I’ve signed up for a single in Murphy for the fall. Room 206. I was hoping I might be able to just move in there now…?
+
+FEMALE HOUSING EMPLOYEE
+
+Well, let’s see what the computer says… Sorry, that room’s scheduled for repainting and maintenance over the summer, so I can’t give it to you.
+
+MALE STUDENT
+
+Oh, I don’t really care if it’s repainted; I’ll be covering most of the walls with posters anyway. Couldn’t I just take it as is?
+
+FEMALE HOUSING EMPLOYEE
+
+Sorry, no—it’s actually a city ordinance—all rental rooms, including dorm rooms, have to be painted at least once every five years.
+
+MALE STUDENT
+
+Oh… Well, uh, how about if I stay where I am for the summer? I’m pretty sure they just painted it a couple years ago.
+
+FEMALE HOUSING EMPLOYEE
+
+Hang on, lemme check… You said Randall, right?
+
+MALE STUDENT
+
+Uh-huh, Room 122.
+
+FEMALE HOUSING EMPLOYEE
+
+Oops, ’fraid not—the entire floor is taken.
+
+MALE STUDENT
+
+Oh, well…guess I’ll just have to move twice…
+
+FEMALE HOUSING EMPLOYEE
+
+One sec, I’ve got one more idea… Here we go; there’s a room open in Murphy just down the hall from your new one. That way, come fall, you’d only have to carry your things a few doors down.
+
+MALE STUDENT
+
+Hmm, OK—works for me!
+
+FEMALE HOUSING EMPLOYEE
+
+Now, that room’s a double; right now you’ve got it to yourself, but there’s a chance someone else might sign up at the last minute—not likely, but you could end up with a roommate for the summer. Would that be OK?
+
+MALE STUDENT
+
+Oh, sure—I can get along with anyone for a couple of months!
+
+FEMALE HOUSING EMPLOYEE
+
+OK, then. I’ll get the forms printed up; they should be ready for you by tomorrow afternoon. You can stop by and sign them then.
+
+MALE STUDENT
+
+Excellent, thanks!

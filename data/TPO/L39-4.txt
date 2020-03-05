@@ -1,0 +1,48 @@
+FEMALE PROFESSOR
+
+Your reading for today’s class was about potential alternative sources of energy. So one thing I want to do today is consider one of those potential energy sources, cellulose. Who can tell us what cellulose is? Allen?
+
+MALE STUDENT
+
+Cellulose, yeah, it’s a tough organic molecule… made of simple sugars. It’s found in the walls of all plant cells… in grass, trees… all plants, and, well… there’s more cellulose than any other organic molecule on Earth.
+
+FEMALE PROFESSOR
+
+Good. It’s also a potential tremendous source of energy, in part because there’s so much of it. Now, many organisms live on the energy they derive from consuming cellulose—like many species of bacteria… or cows and goats. Cows and goats have evolved highly specialized digestive systems that allow them to metabolize cellulose.
+
+MALE STUDENT
+
+But it’s hard for most species to process cellulose?
+
+FEMALE PROFESSOR
+
+Yes, and it’s been very hard to develop a controlled way to process cellulose in a lab, so that we can use the energy that’s stored in it. It needs to be converted into ethanol. Let me explain…. Ethanol is a liquid, a kind of alcohol that is derived from processing sugars from plants, often corn, and it can be used as fuel. Many researchers believe it is the key to ending the reliance on gasoline. The problem is that the amount of energy we get from corn-based ethanol isn’t much more than the amount of energy that gets put into making it, so it’s not really worth it. Tina?
+
+FEMALE STUDENT
+
+But ethanol made from cellulose is different?
+
+FEMALE PROFESSOR
+
+Yes—it’s possible to get a vastly better energy yield on cellulose-based, or cellulosic, ethanol.
+
+FEMALE STUDENT
+
+OK, so why don’t we just use cellulosic ethanol?
+
+FEMALE PROFESSOR
+
+Well, the problem is that the current method for processing cellulose into ethanol is very expensive and can’t be done on a large scale. See, currently, there are two key steps in the process. The first is breaking the cellulose down into sugars. This is done with an enzyme, a specific type of protein. And second, after the enzyme has broken down the cellulose, yeast and other microorganisms—microbes—are added to ferment those sugars into cellulosic ethanol.
+
+Thing is, though, we’re not too good at producing the enzymes that break down cellulose. Those proteins are very difficult to make, to just assemble in a lab, so usually we extract enzymes from microorganisms that produce them naturally. Unfortunately, this is slow, expensive, and just not very efficient
+
+MALE STUDENT
+
+So are they trying to develop a better way to make enzymes?
+
+FEMALE PROFESSOR
+
+Actually, there’s a company that thinks they can do better than that. It’d be more efficient, and therefore cheaper, to combine the two steps I mentioned into one. That is, have a single organism that breaks down cellulose and then produces ethanol. So, what this company is doing is searching around the world and gathering naturally occurring microorganisms that do both things. I mean, the best key to unlocking the power of cellulose may well lie in a rare species of bacteria or yeast in a jungle somewhere. 
+
+So, researchers at this company have discovered some microorganisms that process cellulose and produce ethanol. Now, they’re working on enhancing, improving, certain natural characteristics of these microorganisms… manipulating them with sophisticated technology… to make them work even more efficiently. The goal, which seems to definitely be within reach, is to design and engineer a superbug, a specific kind of microbe, that makes cheap, commercial production of cellulosic ethanol a real possibility.
+

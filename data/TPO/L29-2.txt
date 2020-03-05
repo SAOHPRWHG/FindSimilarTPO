@@ -1,0 +1,47 @@
+MALE PROFESSOR
+
+Today I’d like to talk a bit about the relationship between the built world and sound— uh, the design of buildings like concert halls or theaters. So what’s the most important aspect in the design of such a building?
+
+MALE STUDENT
+
+Acoustics?
+
+MALE PROFESSOR
+
+Yes. Now people have been concerned about how sound carries in auditoriums and theaters for at least 2,000 years, but it was not until the beginning of the twentieth century that architectural acoustics became a scientific field. That was when the physicist Wallace Sabine started to do extensive studies on reverberation.
+
+Sabine wanted to find out why the audience could not understand speakers at a lecture hall in Boston. He designed a series of studies on reverberation to figure it out. So what is reverberation? It’s the persistence of sound in a room after the source has stopped making sound. You see, sound made in a room reflects off the walls, floor, and ceiling—that’s the reverberant sound. The time it takes for the reverberant sound to die down is important for the acoustic quality of a room. Sabine recognized this, and he came up with an equation to measure a room’s reverberation time. So, what happens if the reverberation time is very long?
+
+FEMALE STUDENT
+
+Wouldn’t it be difficult to hear new sounds if you can still hear the old sounds?
+
+MALE PROFESSOR
+
+Exactly. A long reverberation time may cause musical notes to drown one another out. On the other hand, if the reverberation time is very short, meaning the reverberations are absorbed very quickly, the room is called “dead.” Performers would feel they have to struggle to fill the room with sound. We don’t want that. In a concert hall or theater, we prefer a “live” room, where the sound has fullness. So we need to control the reverberation time. After all, we don’t want the listeners or the performers to have to struggle, right? So what are some important considerations when we design a theater or concert hall?
+
+MALE STUDENT
+
+The size of the place?
+
+MALE PROFESSOR
+
+Absolutely. The larger the room, the longer the reverberation time. So we’ll have to take into account what the room will be mainly used for since music requires more reverberation than speech. A room intended for music needs to be designed differently from a room intended for drama. For music we need a very large room, a concert hall—actually, I-I should say for full orchestras—because for a single instrument, say, something like a piano recital, a room with a short reverberation time is better. So, for a solo piano, a smaller room works well. Yes?
+
+MALE STUDENT
+
+I read that concert halls designed for symphony orchestras have too much echo for jazz music.
+
+MALE PROFESSOR
+
+That doesn’t surprise me—most small jazz groups would need rooms with a shorter reverberation time. But, besides the size of the room, another variable affecting reverberation is the shape of the room. Let’s say you designed a rectangular, box-like space with bare walls and ceiling. This would allow the sound to act like a ball in a racquetball court, you know bouncing around and hitting some parts of the walls and ceiling but missing many others. If that happens in a concert hall, audience members may hear some sounds but not others. So what can be done to distribute the sound evenly in every direction? The answer is: avoid straight, parallel walls. Karen?
+
+FEMALE STUDENT
+
+But I think I’ve seen photos of rectangular concert halls.…
+
+MALE PROFESSOR
+
+Right… Older concert halls from the 1800s are generally rectangular, but they all have a lot of decorations on the walls inside, lots of ornamental plasterwork like statues, which distribute sound very efficiently, reflecting it in all different directions.
+
+And that brings me to another variable we need to consider—the acoustic characteristics of the building materials as well as the wall and floor coverings. In fact, most objects you see in a concert hall or theater serve double duty. The plush chairs absorb sound and soften reverberation. And the beautiful crystal chandeliers? They are very good at diffusing sound. You see, everything must be planned down to the last detail in order to predict the acoustic performance of a room. That being said… there’s something that can’t be controlled by the architect.  The audience has an effect on acoustics too—the heads of people are good diffusers of sound—and architects try to account for this effect in their design, but they can’t guarantee a full auditorium!

@@ -1,0 +1,84 @@
+MALE PROFESSOR
+
+So, musical instruments evolved in ways that optimized their acoustical properties—how the instrument vibrates and sends those vibrations through the air to our eardrums.
+
+Now, professional musicians are very particular about their instruments. They want instruments that help them fully express the intent of the composer…which, of course, translates into a more enjoyable listening experience for the audience members. Yet, most audience members probably aren’t even aware of how much the instrument matters. I mean...OK, think about the last concert you attended. When you applauded, what went through your mind? 
+
+FEMALE STUDENT
+
+I recently heard a violinist who totally blew me away. Uh so, when I applauded, I guess I was showing my appreciation for his skill, the hours of practice he must’ve put in.
+
+MALE PROFESSOR
+
+And his violin...?
+
+FEMALE STUDENT
+
+Didn’t really think about it. It looked exactly like mine, uh, which is inspiring, in a way, knowing my violin could also produce such beautiful tones, that maybe I’ll sound that good someday.
+
+MALE PROFESSOR
+
+I hope you do. But if your violin isn’t as good as his…
+
+FEMALE STUDENT
+
+Y’mean he might not sound as good playing my violin?
+
+MALE PROFESSOR
+
+As I said, tone quality differs from instrument to instrument. The question is…why? Why does one instrument sound more beautiful than another, even if they look identical? There’s a particularly interesting case with an extraordinary generation of violins made in northern Italy…in the city of Cremona, back in the late 1600s, early 1700s.
+
+These vintage Cremonese violins are considered the best in the world. But it’s not like the makers of those violins were any more skilled than their modern-day counterparts; they weren’t. Today’s top violin makers can pretty much replicate all of the physical attributes of a Cremonese violin. But it’s generally thought that the acoustical quality of modern violins doesn’t live up to the quality of the vintage ones.
+
+MALE STUDENT
+
+So, what of the old violins have been replicated?
+
+MALE PROFESSOR
+
+[Listing]Oh, their dimensions, shape…their fingerboard height, uh, general craftsmanship. For a long time, people thought the varnish used to coat and protect the violins was special. But research showed it was the same ordinary varnish used on furniture. However, researchers have discovered that there’s something special about the wood the violins were made from, and recently, they’ve been able to replicate that, too.
+
+MALE STUDENT
+
+How…unless the trees the Cremonese used are still alive....
+
+MALE PROFESSOR
+
+The trees weren’t replicated, just the wood...specifically the wood’s density. Density’s determined by how trees grow. Trees, all trees that don’t grow in the tropics, grow seasonally. They grow faster early in the year, in the springtime, than they do later in the year. So early-growth wood is relatively porous; late-growth wood is denser, less porous. And this variation shows up in the tree’s growth rings. The denser layers are generally darker than the less-dense layers. We call this variation the “density differential.”
+
+MALE PROFESSOR
+
+Variations in wood density affect vibrations, and therefore, sound. When scientists first analyzed the wood of vintage Cremonese violins and compared it with the modern violin wood, they calculated the average density and found no difference. Later, other researchers measured the density differential and found a significant difference: modern violins had a greater variation…a larger differential.
+
+FEMALE STUDENT
+
+So you mean the density of the wood in the Cremonese violins is, is more uniform?
+
+MALE PROFESSOR
+
+Correct.
+
+FEMALE STUDENT
+
+But northern Italy isn’t in the tropics!
+
+MALE PROFESSOR
+
+No, but climate matters. Turns out the Cremonese violins were made from trees that grew during a “little ice age,” a period when temperatures across Europe were significantly lower than normal. So the trees grew more evenly throughout the year, making the density differential relatively small.
+
+MALE STUDENT
+
+But you said someone replicated the Cremonese wood.
+
+MALE PROFESSOR
+
+The density differential was replicated.
+
+MALE STUDENT
+
+What did they do, try to simulate an ice-age climate in a greenhouse and grow some trees in there?
+
+MALE PROFESSOR
+
+No. What happened was a materials scientist figured out a way to process wood to make it acoustically similar to the Cremonese wood. He basically exposed the wood to a species of fungus, a mushroom. In the forest, fungi are decomposers; they break down dead wood. But this particular fungus nibbles away only at certain layers in the wood, leaving other layers alone. As a result, the density differential of the fungi-treated wood approached that of the Cremonese wood.
+

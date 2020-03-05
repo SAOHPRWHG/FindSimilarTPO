@@ -1,0 +1,70 @@
+So, how many of you have seen the-the MilkyWay, the MilkyWay galaxy, in the sky? You? You have?
+
+MALE STUDENT
+
+Yeah, I was camping. And there was uh, no moon that night. It was super dark.
+
+MALE PROFESSOR
+
+Uh, anybody else? Huh, not too many… Isn’t that strange that the MilkyWay is the galaxy that the planet Earth is in and most of us have never seen it? Now what’s the problem here?
+
+FEMALE STUDENT
+
+Light pollution, right? From streetlights and stuff.
+
+MALE PROFESSOR
+
+Yes. Especially unshielded streetlights, you know, ones that aren’t pointed downward… Now, here’s an irony: the building we’re in now, the astronomy building, not far from our observatory, has unshielded lights.
+
+MALE STUDENT
+
+So, the problem’s pretty widespread…
+
+MALE PROFESSOR
+
+It’s basically beyond control, as far as expecting to view the night sky anywhere near a city… I mean, uh, I’ve lived around here my whole life, and I’ve never seen the Milky Way within the city limits—and I probably never will… there’s a price for progress, huh? But let’s think beyond light pollution. That’s only one kind of, uh, technological advance that has interfered with astronomical research. Can anyone think of another? No? OK, let’s look at it this way… we don’t only get information by looking at the stars… for the past 70 years or so, we’ve also used radio astronomy, which lets us study radio waves from the sky…
+
+MALE STUDENT
+
+How can you observe radio waves? I mean, tell anything about the stars from that?
+
+MALE PROFESSOR
+
+Well, in optical astronomy—using a telescope and observing the stars that way—we rely on visible light waves… What we’re seeing from Earth is actually electromagnetic radiation that’s coming from stars—and just one part of it is visible light. But there are problems with that. When photons in light waves hit objects in our atmosphere—water droplets, oxygen and nitrogen molecules, dust particles, and so on—these objects are illuminated, they’re lit up. And those things are also being lit by all our streetlights, by the moon, all this ambient light. And on top of that, when that visible radiation bounces off those molecules—it scatters in all directions. And, well, light from stars, even nearby in our own galaxy, doesn’t stand a chance against that… Basically the light bouncing off all these objects close to Earth is brighter than what’s coming from the stars. Now, radio waves are electromagnetic radiation that we can’t see. Nearly all astronomical objects in space emit radio waves—whether nearby stars or objects in faraway galaxies—they all give off radio waves. And, unlike visible light waves, these radio waves can get through the various gases and dust in space, and through our own earth’s atmosphere comparatively easily.
+
+FEMALE STUDENT
+
+OK, then we might as well give up on optical astronomy and go with radio astronomy…
+
+MALE PROFESSOR
+
+Well, the thing is, with radio astronomy you can’t just set up a telescope in your backyard and observe stars. One problem is that radio waves from these faraway objects, even though they can get through, are extremely faint. So we need to use radio telescopes specially designed to receive these waves, and then… well, we can use computers to create pictures based on the information we receive.
+
+MALE STUDENT
+
+That sounds cool. So how do they do that?
+
+MALE PROFESSOR
+
+Well, it’s kind of like the same way a satellite dish receives its signal, if you’re familiar with that. But radio telescopes are sometimes grouped together—it’s the same effect as having one really big telescope—to increase radio wave gathering power. And they use electronics, quite sophisticated… Yeah, it’s neat how they do it, but-but for now why don’t we just stick with what we can learn from it? Uh, some very important discoveries have been made by this technology, especially if you consider that some objects in space give off radio waves, but don’t emit any light. We’d have trouble discovering those sorts of bodies, much less studying them, using just optical telescopes.
+
+FEMALE STUDENT
+
+Well, if the radio waves are so good at getting through the universe, what’s the problem?
+
+MALE PROFESSOR
+
+Well, answer this: how come people have to turn off their cell phones and electronic devices when an airplane is about to take off?
+
+MALE STUDENT
+
+The phones interfere with the radio communication at the airport, right?
+
+FEMALE STUDENT
+
+Oh, so our radio waves here, on Earth, interfere with the waves from space?
+
+MALE PROFESSOR
+
+Yes, signals from radios, cell phones, TV stations, remote controls—you name it. All these things cause interference. We don’t think about that as often as we think about light pollution. But all those electrical gadgets pollute the skies, just in a different way.
+

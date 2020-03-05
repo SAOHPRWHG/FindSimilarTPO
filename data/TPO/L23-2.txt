@@ -1,0 +1,39 @@
+Basically, a cloud either contributes to the cooling of Earth’s surface or to its heating. Earth’s climate system is constantly trying to strike a balance between the cooling and warming effects of clouds. It’s very close, but overall, the cumulative effect of clouds is to cool Earth rather than heat it. And this balance between the amount of solar radiation—energy from the Sun—that’s absorbed by Earth and the amount that’s reflected back into space, we call this Earth’s “radiation budget.” And one way we keep track of the radiation budget is by looking at the albedo [al-BEE-doe ] of the different surfaces on the planet.
+
+
+
+A surface’s albedo is the percentage of incoming solar energy – sunlight – that’s reflected off that surface back into space. Oceans have a low albedo, because they reflect very little energy; most of the solar energy that reaches the ocean gets absorbed and heats the water. Um… rain forests also have low albedos. Well, by contrast, deserts and areas covered by ice or snow, these places have high albedos. And clouds—in general—clouds also have high albedos. That means that a large percentage of the solar energy clouds receive is reflected back into space.
+
+OK… now when we say that clouds have a high albedo, we’re talking about the effect of all the clouds on Earth averaged together. But different types of clouds have different reflective properties—they have different albedos.
+
+FEMALE STUDENT
+
+So which type of clouds cool Earth, and which type heat it?
+
+MALE PROFESSOR
+
+Well, high, thin clouds contribute to heating, while low, thick clouds cool Earth. High, thin clouds are very transparent to solar radiation, like, eh, clear air. So, they mostly transmit incoming solar energy down to Earth; there’s not much reflection going on at all. At the same time, these clouds trap in some of Earth’s heat. Because of the trapped heat, these clouds have an overall heating effect.
+
+MALE STUDENT
+
+Oh, OK, so since low, thick clouds are not transparent to radiation…
+
+MALE PROFESSOR
+
+…exactly, they block much of the solar energy so it never reaches Earth’s surface—they reflect much of it back out in to space.
+
+FEMALE STUDENT
+
+So that’s how clouds contribute to cooling.
+
+MALE PROFESSOR
+
+Yep. And as I said earlier, this cooling effect predominates. Now, what if there was a process that could control the types of clouds that form?
+
+MALE STUDENT
+
+Are you talking about controlling the weather?
+
+MALE PROFESSOR
+
+Well, I’m not sure I would go that far. But, we recently noticed an increase in cloud cover over an area of the ocean waters around Antarctica—an increased area of low, thick clouds, the type that reflects a large portion of solar energy back to space and cools the Earth. Well, the reason for this increased cloud cover, it turns out, is the exceptionally large amount of microscopic marine plants. Well, the current hypothesis is that these microorganisms produce a chemical—dimethyl sulfide—that interacts with the oxygen in the air, creating conditions that lead to the formation of the low, thick clouds we’ve observed. Well, if that’s true, it could have huge implications. So maybe we are talking about controlling the weather.  Perhaps, if the microorganisms near Antarctica really are responsible, perhaps we can accelerate the process somehow.

@@ -1,0 +1,22 @@
+FEMALE PROFESSOR
+
+OK, last time we talked about photosynthesis, the process by which plants use light to convert carbon dioxide and water into food. Today, I want to talk about another way light affects plants. I’m sure you all know from physics class about how light moves in microscopic waves, and that we can only see light when the wavelength of that light is in a specific range; plus, depending on the wavelength, we see different colors. Well, plants are also capable of distinguishing between different wavelengths of light. Now I don’t want to confuse you—it’s not like plants have eyes—plants don’t see in the sense that humans or animals do—but they do have photoreceptors.
+
+Photoreceptors are cells that respond to light by sending out a chemical signal. And the organism— the plant— reacts to this signal; in fact, the signals that plants get from their photoreceptors sometimes cause significant reactions.
+
+And many plants are seasonal, and one way they know when winter is ending and spring is beginning is by sensing the change in light. The time when an adult plant flowers is based on the amount of light the plant senses. Certain plant species won’t flower if they sense too much light, and some plants will only flower if they sense a specific amount of light. Of course, these aren’t conscious reactions—these plants just automatically respond to light in certain ways.
+
+Plants are also able to distinguish between specific wavelengths of light that the human eye cannot even see. Specifically, there’s a wavelength called far-red. Although why they call it “far-red”…  I mean, it’s not really red at all. It lies in the infrared range of the spectrum. We can’t see it, but plants can sense it as a different wavelength.
+
+OK, now I need to mention another thing about photosynthesis. I didn’t explain how different wavelengths of light affect photosynthesis. When a plant absorbs light for performing photosynthesis, it only absorbs some wavelengths of light and reflects others.
+
+Plants absorb most of the red light that hits them. But plants only absorb some of the far-red light that hits them—they reflect the rest. Remember this, because it’s going to be relevant in an experiment I want to discuss.
+
+This fascinating experiment showed that plants not only detect and react to specific wavelengths of light—plants can also detect and react to changes in the ratio of one wavelength to another. This experiment was called the Pampas experiment.
+
+The idea behind the Pampas experiment had to do with the response of plants to changes in the ratio of red light to far-red light that the plants sensed with their photoreceptors. Some biologists hypothesized that a plant will stop growing if it’s in the shade of another plant—a reaction that’s triggered when it senses an unusual ratio of red light to far-red light. OK, imagine there are two plants, one below the other. The plant on top would absorb most of the red light for photosynthesis but reflect most of the far-red light. That would lead to the plant in its shade sensing an unusual ratio—there would be less red light and more far-red light than normal. What that ratio signifies is important—a ratio of less red light to more far-red light would cause a reaction from the plant: it would stop growing taller—because that plant could sense it wasn’t going to get enough sunlight to provide the energy to grow large.
+
+To test their hypothesis, researchers took some electrical lights—um, actually they were light-emitting diodes, or LEDs.
+
+These light-emitting diodes could simulate red light. So they put these LEDs around some plants that were in the shade. The LEDs produced light that the plants sensed as red—but, unlike sunlight, the light from these LEDs did not support photosynthesis. So the plants sensed a proper ratio of red light to far-red light and reacted by continuing to grow taller, while in reality, these plants were not getting enough energy from photosynthesis to support all of that growth. And because they weren’t getting enough energy to support their growth, most of the shaded plants died after a short time
+
