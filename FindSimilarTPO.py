@@ -4,20 +4,53 @@ Created on Mon Mar  2 10:36:44 2020
 
 @author: August Yu
 """
-#寻找最相似的X篇TPO文章
-#输入参数
-find_file = '1-1.txt' #要找的文档内容
-sim_num = 10 #要显示的最相似的数目
-TPO_num = 54 #目前可访问的TPO数目，如增加到64则改为64
-
 from gensim import corpora,models,similarities
 import jieba
 from collections import defaultdict
 import heapq
+import argparse
+
+
+#寻找最相似的X篇TPO文章
+'''
+find file name: 
+    Reading materials : 1-1.txt 
+    Listening materials : C1-1.txt(Conversation) or L1-1.txt(Lecture)
+Each TPO have 3 reading materials, 2 conversations and 4 lectures.
+'''
+parser = argparse.ArgumentParser(description='Find Similar TPO')
+parser.add_argument(
+    "-f",
+    '--filename',
+    metavar="FILE",
+    help="filename: \nReading materials : 1-1.txt \n Listening materials : C1-1.txt(Conversation) or L1-1.txt(Lecture)",
+    type=str,
+)
+parser.add_argument(
+    "-n",
+    '--num',
+    default = 10,
+    help="Show how many records",
+    type=int,
+)
+parser.add_argument(
+    "-t",
+    '--tpo',
+    default = 54,
+    help="Find in how many TPO, default is 54, you may change to 64 if you got them",
+    type=int,
+)
+
+#argv = parser.parse_args('-f C2-1.txt -n 10 -t 54'.split())
+#print(argv)
+
+find_file = argv.filename
+sim_num = argv.num #show the similar text number要显示的最相似的数目
+TPO_num = argv.tpo #目前可访问的TPO数目，如增加到64则改为64
+
 
 
 lib = []
-
 for i in range(1,TPO_num+1):
     for j in range(1,4): 
         file_name = str(i)+'-'+str(j)+'.txt'
