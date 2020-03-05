@@ -18,7 +18,7 @@ python FindSimilarTPO.py -f 1-1.txt -n 10 -t 54
 ```
 * Find Reading material TPO1-1
 ```
-python FindSimilarTPO.py -f L54-4.txt --n 5
+python FindSimilarTPO.py -f L54-4.txt -n 5
 ```
 * Find Listening material TPO54-lecture 4
 ```
